@@ -1,7 +1,7 @@
 # Neutrino portal dark matter model Code files
 
 ## This repository contains the relevant files for the published article ["A realistic model for dark matter 
-interactions in the neutrino portal paradigm"](doi:10.1007/JHEP05(2016)171), authors: V. Gonzalez, J. Illana, J. Wudka.
+interactions in the neutrino portal paradigm"](https://link.springer.com/article/10.1007%2FJHEP05%282016%29171), authors: V. Gonzalez, J. Illana, J. Wudka.
 
 We discuss a simple extension of the Standard Model (SM) that provides an explicit realization of the dark-matter (DM) 
 neutrino-portal paradigm. The dark sector is composed of a scalar $\Phi$ and a Dirac fermion $\Psi$, with the latter assumed to be 
@@ -29,7 +29,7 @@ the dark matter mass is relatively light (as compared with the Higgs boson for e
 |vannia2Cprogram.bash|Code to submit into cluster|
 |DataOmfine.dat|Synthesized data|
 |DMObervables...|Process data and compare with semi-analytic solutions and experiments|
-|xenon...m|Coordinate transformation of plots from published articles of experiments|
+|(xenon/lux/icecube/fermilat/upmuonfluxSK).m|Coordinate transformation of plots from published articles of experiments|
 |DirectIndirectwithlux16.nb|Update on experimental constraints vs model|
 |Model Implementation| Model implementation with feynrules in micrOmegas|
 |figs| All the plots|
