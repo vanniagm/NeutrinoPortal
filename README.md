@@ -1,6 +1,7 @@
 # Neutrino portal dark matter model Code files
 
-## This repository contains the relevant files for the published article ["A realistic model for dark matter 
+## This repository contains the relevant files for the published article :
+["A realistic model for dark matter 
 interactions in the neutrino portal paradigm"](https://link.springer.com/article/10.1007%2FJHEP05%282016%29171), authors: V. Gonzalez, J. Illana, J. Wudka.
 
 We discuss a simple extension of the Standard Model (SM) that provides an explicit realization of the dark-matter (DM) 
