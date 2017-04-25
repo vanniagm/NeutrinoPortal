@@ -1,0 +1,66 @@
+SM_DM_NuModel
+ Parameters
+  Name         | Value       |> Comment                                                                <|
+aEWM1          |127.9        |Inverse of the EW coupling constant at the Z pole                         |
+Gf             |0.0000116637 |Fermi constant                                                            |
+aS             |0.1184       |Strong coupling constant at the Z pole                                    |
+ymdo           |0.00504      |Down Yukawa mass                                                          |
+ymup           |0.00255      |Up Yukawa mass                                                            |
+yms            |0.101        |Strange Yukawa mass                                                       |
+ymc            |1.27         |Charm Yukawa mass                                                         |
+ymb            |4.7          |Bottom Yukawa mass                                                        |
+ymt            |172          |Top Yukawa mass                                                           |
+yme            |0.000511     |Electron Yukawa mass                                                      |
+ymm            |0.10566      |Muon Yukawa mass                                                          |
+ymtau          |1.777        |Tau Yukawa mass                                                           |
+cabi           |0.227736     |Cabibbo angle                                                             |
+Lam            |1000.        |Lambda scale  M                                                           |
+Un1x1          |1.           |Un unitary matrix ( Un1x1 )                                               |
+Un1x2          |0.           |Un unitary matrix ( Un1x2 )                                               |
+Un1x3          |0.           |Un unitary matrix ( Un1x3 )                                               |
+Un2x1          |0.           |Un unitary matrix ( Un2x1 )                                               |
+Un2x2          |1.           |Un unitary matrix ( Un2x2 )                                               |
+Un2x3          |0.           |Un unitary matrix ( Un2x3 )                                               |
+Un3x1          |0.           |Un unitary matrix ( Un3x1 )                                               |
+Un3x2          |0.           |Un unitary matrix ( Un3x2 )                                               |
+Un3x3          |1.           |Un unitary matrix ( Un3x3 )                                               |
+En1x1          |1.           |En unitary matrix ( En1x1 )                                               |
+En1x2          |0.           |En unitary matrix ( En1x2 )                                               |
+En1x3          |0.           |En unitary matrix ( En1x3 )                                               |
+En2x1          |0.           |En unitary matrix ( En2x1 )                                               |
+En2x2          |1.           |En unitary matrix ( En2x2 )                                               |
+En2x3          |0.           |En unitary matrix ( En2x3 )                                               |
+En3x1          |0.           |En unitary matrix ( En3x1 )                                               |
+En3x2          |0.           |En unitary matrix ( En3x2 )                                               |
+En3x3          |1.           |En unitary matrix ( En3x3 )                                               |
+mudm1          |100.         |Mu diagonal matrix parameter ( mudm1 )                                    |
+mudm2          |150.         |Mu diagonal matrix parameter ( mudm2 )                                    |
+mudm3          |300.         |Mu diagonal matrix parameter ( mudm3 )                                    |
+zm1            |0.8          |Dark matter coupling ( zm1 )                                              |
+zm2            |0.8          |Dark matter coupling ( zm2 )                                              |
+zm3            |0.8          |Dark matter coupling ( zm3 )                                              |
+maj            |0.1          |Majorana mediator mass                                                    |
+Lx             |0.1          |DM-Higgs coupling                                                         |
+kk             |1            |Index scalar-fermion mass ratio                                           |
+GG             |1.21977796370|Strong coupling constant at the Z pole   This value will be ignored and ca|
+MZ             |91.1876      |Mass of G0.                                                               |
+Me             |0.000511     |Mass of e.                                                                |
+MMU            |0.10566      |Mass of mu.                                                               |
+MTA            |1.777        |Mass of ta.                                                               |
+MU             |0.00255      |Mass of u.                                                                |
+MC             |1.27         |Mass of c.                                                                |
+MT             |172          |Mass of t.                                                                |
+MD             |0.00504      |Mass of d.                                                                |
+MS             |0.101        |Mass of s.                                                                |
+MB             |4.7          |Mass of b.                                                                |
+Mdm            |10           |Mass of Psi.                                                              |
+MH             |125          |Mass of H.                                                                |
+%WZ            |2.4952       |Width of G0.                                                              |
+%WW            |2.085        |Width of GP.                                                              |
+%WT            |1.50833649   |Width of t.                                                               |
+%WNR1          |0            |Width of NR1.                                                             |
+%WNR2          |0            |Width of NR2.                                                             |
+%WNR3          |0            |Width of NR3.                                                             |
+%WH            |0.00407      |Width of H.                                                               |
+E              |2.71828182845|The base of the natural logarithm.                                        |
+Pi             |3.14159265358|The circumference of a circle divided by the diameter.                    |
